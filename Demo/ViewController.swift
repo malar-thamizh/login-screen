@@ -89,8 +89,8 @@ class ViewController: UIViewController {
             self.present(alert,animated: true, completion: nil)
         }
        
-             let vc = SecondViewController()
-             self.navigationController?.pushViewController(vc, animated: true)
+//             let vc = SecondViewController()
+//             self.navigationController?.pushViewController(vc, animated: true)
 
         
     }
